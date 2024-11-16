@@ -8,12 +8,6 @@
 💻 Actively learning **Backend Development** and **DevOps**.  
 📈 Passionate about building efficient systems and automating workflows.
 
-## 👍 Appreciate my work?
-
-If my profile caught your eye, a thumbs-up would be amazing! It’s a great way to show your support.  
-[![Like Count](https://img.shields.io/badge/Like%20My%20Profile-👍%201-blue)](https://github.com/NikhilVaishnav)
-
-
 ---
 
 ## 🛠️ Skills
