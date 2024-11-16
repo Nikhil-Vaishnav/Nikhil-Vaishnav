@@ -1,5 +1,6 @@
 ## 📈 Profile Stats
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-Vaishnav&color=blue)
+
 
 # 👋 Hi, I'm Nikhil Vaishnav!
 
