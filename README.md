@@ -19,7 +19,7 @@
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ### Backend:
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp;&nbsp; ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp; ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
 
 ### DevOps:
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
@@ -40,7 +40,9 @@
 ---
 
 📬 **Connect with Me:**  
-- LinkedIn: [Nikhil Vaishnav](https://www.linkedin.com/in/nikhil-vaishnav-371608184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Email**: [nikhilvaishnav364@gmail.com](mailto:nikhilvaishnav364@gmail.com)
+- **LinkedIn**: [Nikhil Vaishnav](https://www.linkedin.com/in/nikhil-vaishnav-371608184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
 ---
@@ -48,6 +50,8 @@
 ## 📈 Contribution Graph
 
 ![Nikhil's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Vaishnav&theme=dark)
+
+
 
 
 
