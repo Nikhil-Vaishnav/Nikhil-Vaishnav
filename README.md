@@ -21,7 +21,7 @@
 ### Backend:
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp; ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
 
-### DevOps:
+### Tools:
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
 
 ---
