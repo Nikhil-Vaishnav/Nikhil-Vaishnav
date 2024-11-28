@@ -19,7 +19,7 @@
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ### Backend:
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp; ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
 
 ### Tools:
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
