@@ -50,6 +50,9 @@
 ## 📈 Contribution Graph
 
 ![Nikhil's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Vaishnav&theme=dark)
+## 📈 Contribution Graph
+
+![Nikhil's Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil-Vaishnav&theme=react-dark)
 
 
 
