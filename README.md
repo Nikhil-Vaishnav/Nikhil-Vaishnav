@@ -17,6 +17,7 @@
 
 ### Frontend:
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
 
 ### Backend:
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
@@ -50,13 +51,3 @@
 ## 📈 Contribution Graph
 
 ![Nikhil's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Vaishnav&theme=dark)
-## 📈 Contribution Graph
-
-![Nikhil's Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Nikhil-Vaishnav&theme=react-dark)
-
-
-
-
-
-
-
