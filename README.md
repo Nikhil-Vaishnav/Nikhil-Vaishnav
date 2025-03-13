@@ -30,7 +30,7 @@
 ## 🌟 Achievements
 - 🏆 **3rd Prize**: SIH Internal Hackathon 2024  
 - 🧤 Built a gesture recognition glove for hearing-impaired communication  
-- 🎓 Completed internships with CSRBOX and Grras Solutions  
+- 🎓 Completed internships with CSRBOX and Grras Solutions.
 
 ---
 
@@ -46,7 +46,7 @@
 
 
 
----
+--
 
 ## 📈 Contribution Graph
 
