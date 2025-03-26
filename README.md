@@ -20,7 +20,8 @@
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 
 ### Backend:
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;![Express.js](https://img.icons8.com/ios/50/000000/express-js.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp;![Express.js](https://img.icons8.com/ios/50/000000/express-js.png) &nbsp;![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)  
+
 
 ### Tools:
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)  ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
